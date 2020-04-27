@@ -6,3 +6,6 @@
 - add: add file(s) to the staging area
 - commit: commit files from staging area with informative message
 	- `commit -m`: commit without opening a text editor
+- `diff'
+-`checkout'
+
